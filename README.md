@@ -45,6 +45,11 @@ This page allows users to analyze individual product performance, compare key me
 - Top customers by revenue
 - Customer segmentation
 - Analysis by income level and occupation
+### Customer Detail Dashboard
+
+![AdventureWorks Customer Detail](AdventureWorks-Customer-Detail.png)
+
+This page analyzes customer performance and segmentation, including unique customers, revenue per customer, customer trends, top customers by revenue, income level, and occupation.
 
 ## Tools Used
 - Power BI
