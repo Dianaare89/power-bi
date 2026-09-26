@@ -65,3 +65,28 @@ This page analyzes customer performance and segmentation, including unique custo
 - Data modeling
 - Business analysis
 - Interactive reporting
+
+
+---
+
+# CheckSkills Employee Performance Dashboard
+
+## Project Overview
+This Power BI project analyzes employee performance across departments to help identify trends in performance, training, and certifications.
+
+## Business Objectives
+- Compare employee performance across departments
+- Analyze certifications completed by department
+- Monitor performance trends over time
+- Allow users to filter results by department
+
+## Dashboard Preview
+
+![CheckSkills Employee Performance Dashboard](CheckSkills-Employee-Performance-Dashboard.png)
+
+## Tools & Skills
+- Power BI
+- Data visualization
+- Data analysis
+- Interactive filtering
+- Business reporting
