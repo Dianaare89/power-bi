@@ -35,6 +35,11 @@ The goal was to turn raw data into a clear visual dashboard that helps track per
 - Track orders, revenue, and profit against targets
 - Price adjustment slider for scenario analysis
 - Return-rate trends
+### Product Detail Dashboard
+
+![AdventureWorks Product Detail](AdventureWorks-Product-Detail.png)
+
+This page allows users to analyze individual product performance, compare key metrics against targets, track trends over time, and evaluate how price adjustments may affect profitability.
 
 ### Customer Analysis
 - Top customers by revenue
