@@ -5,6 +5,10 @@ In this project, I built an interactive Power BI dashboard to analyze sales perf
 
 The goal was to turn raw data into a clear visual dashboard that helps track performance and support business decisions.
 
+## Dashboard Preview
+
+![AdventureWorks Executive Dashboard](AdventureWorks-Executive-Dashboard.png)
+
 ## Business Objectives
 - Track revenue, profit, and orders
 - Analyze product and category performance
